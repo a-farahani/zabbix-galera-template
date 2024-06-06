@@ -2,7 +2,7 @@ Galera Cluster monitoring template for Zabbix
 ===========================================
 
 
-Tested on Zabbix Version 3.2
+Tested on Zabbix Server Version 6.0.30 & Zabbix Agent Version 6.0.30
 
 See at [share.zabbix.com](https://share.zabbix.com/databases/mysql/galera-cluster-monitoring)
 
